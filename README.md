@@ -1,2 +1,2 @@
 # Computer-Network-Security
-code of encryption/decryption algorithm of computer network security
+code of encryption/decryption algorithms of computer network security.
