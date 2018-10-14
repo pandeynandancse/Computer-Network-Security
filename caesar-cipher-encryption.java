@@ -1,5 +1,4 @@
-/* package whatever; // don't place package name! */
-/* creating a program for ceaser cipher */
+/* program for caesar cipher encryption*/
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -8,8 +7,6 @@ class Ceaser
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
-	
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Shifting will be clockwise");		
 		System.out.println("Enter the Plain Text");
